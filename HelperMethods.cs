@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 
 
-namespace Dll4Xll
+namespace HelperMethods
 {
     public class HelperMethods
     {
